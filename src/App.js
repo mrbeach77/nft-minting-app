@@ -55,7 +55,7 @@ export const StyledRoundButton = styled.button`
 
 export const ResponsiveWrapper = styled.div`
   display: flex;
-  flex: 0;
+  flex: 1;
   flex-direction: column;
   justify-content: stretched;
   align-items: stretched;
@@ -205,7 +205,7 @@ function App() {
           <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
         </a>
         <s.SpacerSmall />
-        <ResponsiveWrapper flex={1} style={{ padding: 10 }} test>
+        <ResponsiveWrapper flex={1} style={{ padding: 0 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
            
           </s.Container>
