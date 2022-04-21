@@ -205,7 +205,7 @@ function App() {
           <StyledLogo alt={"logo"} src={"/config/images/logo.png"} />
         </a>
         <s.SpacerSmall />
-        <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
+        <ResponsiveWrapper flex={1} style={{ padding: 10 }} test>
           <s.Container flex={1} jc={"center"} ai={"center"}>
            
           </s.Container>
@@ -252,7 +252,7 @@ function App() {
                   window.open("/config/roadmap.pdf", "_blank");
                 }}
                 style={{
-                  margin: "5px",
+                  margin: "0px",
                 }}
              
                 onClick={(e) => {
@@ -393,7 +393,7 @@ function App() {
           </s.Container>
         </ResponsiveWrapper>
         <s.SpacerMedium />
-        <s.Container jc={"center"} ai={"center"} style={{ width: "70%" }}>
+        <s.Container jc={"center"} ai={"center"} style={{ width: "100%" }}>
           <s.TextDescription
             style={{
               textAlign: "center",
