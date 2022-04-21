@@ -9,10 +9,10 @@
   "NFT_NAME": "Bone Face Deadies",
   "SYMBOL": "BFD",
   "MAX_SUPPLY": 10000,
-  "WEI_COST": 5000000000000000000,
-  "DISPLAY_COST": 0.05,
+  "WEI_COST": 30000000000000000,
+  "DISPLAY_COST": 0.03,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/bone-b",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bone-face-deadies-9jidwoys95",
   "SHOW_BACKGROUND": true
 }
