@@ -206,7 +206,7 @@ function App() {
         </a>
         <s.SpacerSmall />
         <ResponsiveWrapper flex={1} style={{ padding: 24 }} test>
-          <s.Container flex={2} jc={"center"} ai={"center"}>
+          <s.Container flex={0} jc={"center"} ai={"center"}>
            
           </s.Container>
           <s.SpacerLarge />
