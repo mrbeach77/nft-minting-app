@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x6583b289d045758CfC9674BC4dCf2E6c2999CabA",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/token/0x6583b289d045758CfC9674BC4dCf2E6c2999CabA",
+  "CONTRACT_ADDRESS": "0xBdcb0e2ae2f3FE1bc0E9A853cDb988d7d90c5e18",
+  "SCAN_LINK": "https://etherscan.io/address/0xBdcb0e2ae2f3FE1bc0E9A853cDb988d7d90c5e18#writeContract",
   "NETWORK": {
-    "NAME": "Rinkeby",
-    "SYMBOL": "Ethereum",
-    "ID": 4
+    "NAME": "Ethereum",
+    "SYMBOL": "Eth",
+    "ID": 1
   },
   "NFT_NAME": "Bone Face Deadies",
   "SYMBOL": "BFD",
@@ -13,6 +13,6 @@
   "DISPLAY_COST": 0.03,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/bone-face-deadies-9jidwoys95",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bone-face-deadies",
   "SHOW_BACKGROUND": true
 }
